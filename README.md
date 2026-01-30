@@ -117,7 +117,7 @@
             </div>
         </div>
         <div class="text-center mt-10 text-slate-400 text-xs">
-            &copy; 2026 Puskesmas Meral. TBC Bisa Sembuh, Indonesia Sehat.
+            &copy; 2026 Puskesmas Meral.
         </div>
     </footer>
 
