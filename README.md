@@ -59,7 +59,7 @@
                 <p class="text-slate-600">Keluar keringat secara berlebihan di malam hari meski tanpa aktivitas fisik.</p>
             </div>
             <div class="bg-white p-8 rounded-2xl shadow-sm border border-slate-100 hover:border-emerald-300 transition">
-                <div class="text-emerald-500 mb-4 text-3xl"><i class="fas fa-scale"></i></div>
+                <div class="text-emerald-500 mb-4 text-3xl"><i class="fas fa-weight-hanging"></i></div>
                 <h3 class="font-bold text-xl mb-2">Berat Badan Turun</h3>
                 <p class="text-slate-600">Nafsu makan hilang drastis dan berat badan menyusut signifikan.</p>
             </div>
