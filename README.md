@@ -68,7 +68,7 @@
 
     <section id="alur" class="py-16 bg-slate-900 text-white rounded-t-[3rem]">
         <div class="max-w-4xl mx-auto px-4 text-center">
-            <h2 class="text-3xl font-bold mb-12">4 Langkah Mudah Sembuh</h2>
+            <h2 class="text-3xl font-bold mb-12">Cek Alur Pemeriksaan</h2>
             <div class="space-y-8 text-left">
                 <div class="flex gap-6 items-start border-l-2 border-emerald-900 ml-5 pl-6 pb-8">
                     <div class="bg-emerald-500 w-10 h-10 rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
