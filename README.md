@@ -105,8 +105,7 @@
     <footer class="bg-white py-12 px-4 border-t border-slate-100">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
             <div>
-            <section id="kontak" class="py-16 bg-slate-900 text-white rounded-t-[3rem]">
-                <p class="font-bold text-xl">Puskesmas Meral</p>
+                <section id="kontak" p class="font-bold text-xl">Puskesmas Meral</p>
                 <p class="text-slate-500 text-sm">Sehat Bersama Kami.</p>
             </div>
             <div class="text-center md:text-right">
