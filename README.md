@@ -18,7 +18,7 @@
                 <div class="bg-emerald-600 p-2 rounded-lg text-white">
                     <i class="fas fa-hospital-user text-xl"></i>
                 </div>
-                <span class="font-bold text-xl tracking-tight">Puskesmas<span class="text-emerald-600">Sehat</span></span>
+                <span class="font-bold text-xl tracking-tight">Puskesmas<span class="text-emerald-600">Meral</span></span>
             </div>
             <a href="#daftar" class="bg-emerald-600 text-white px-5 py-2 rounded-full font-semibold hover:bg-emerald-700 transition">Kontak Darurat</a>
         </div>
