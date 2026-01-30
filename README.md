@@ -81,14 +81,14 @@
                     <div class="bg-emerald-500 w-10 h-10 rounded-full flex items-center justify-center font-bold flex-shrink-0">2</div>
                     <div>
                         <h4 class="font-bold text-lg text-emerald-400">Pemeriksaan TCM</h4>
-                        <p class="text-slate-400">Tes dahak dengan metode Tes Cepat Molekuler yang akurat (Hanya 2 Jam).</p>
+                        <p class="text-slate-400">Tes dahak dengan metode Tes Cepat Molekuler (TCM) yang akurat.</p>
                     </div>
                 </div>
                 <div class="flex gap-6 items-start border-l-2 border-emerald-900 ml-5 pl-6 pb-8">
                     <div class="bg-emerald-500 w-10 h-10 rounded-full flex items-center justify-center font-bold flex-shrink-0">3</div>
                     <div>
                         <h4 class="font-bold text-lg text-emerald-400">Mulai Pengobatan</h4>
-                        <p class="text-slate-400">Jika positif, obat diberikan secara gratis dan dipantau oleh tenaga medis.</p>
+                        <p class="text-slate-400">Tunggu informasi selanjutnya maksimal 1 minggu melalui nomor telepon atau datang ke Puskesmas. Jika positif, obat diberikan secara gratis dan dipantau oleh tenaga medis.</p>
                     </div>
                 </div>
                 <div class="flex gap-6 items-start border-l-2 border-emerald-900 ml-5 pl-6">
