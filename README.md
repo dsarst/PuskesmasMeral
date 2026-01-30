@@ -105,8 +105,8 @@
     <footer class="bg-white py-12 px-4 border-t border-slate-100">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
             <div>
-                <p class="font-bold text-xl">Puskesmas Sehat</p>
-                <p class="text-slate-500 text-sm">Melayani dengan Hati, Menyembuhkan dengan Pasti.</p>
+                <p class="font-bold text-xl">Puskesmas Meral</p>
+                <p class="text-slate-500 text-sm">Sehat Bersama Kami.</p>
             </div>
             <div class="text-center md:text-right">
                 <p class="text-sm font-semibold">Jam Layanan Poli TB:</p>
@@ -114,7 +114,7 @@
             </div>
         </div>
         <div class="text-center mt-10 text-slate-400 text-xs">
-            &copy; 2026 Puskesmas Sehat. TBC Bisa Sembuh, Indonesia Sehat.
+            &copy; 2026 Puskesmas Meral. TBC Bisa Sembuh, Indonesia Sehat.
         </div>
     </footer>
 
