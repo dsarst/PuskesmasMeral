@@ -106,7 +106,7 @@
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
             <div>
                 <p class="font-bold text-xl">Puskesmas Meral</p>
-                <p class="text-slate-550 text-sm">Sehat Bersama Kami.</p>
+                <p class="text-slate-500 text-sm">   Sehat Bersama Kami.</p>
             </div>
             <div class="text-center md:text-right">
                 <p class="text-sm font-semibold">Jam Pendaftaran:</p>
