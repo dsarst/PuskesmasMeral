@@ -20,7 +20,7 @@
                 </div>
                 <span class="font-bold text-xl tracking-tight">Puskesmas<span class="text-emerald-600"> Meral</span></span>
             </div>
-            <a href="https://www.instagram.com/puskesmasmeral/" class="bg-emerald-600 text-white px-5 py-2 rounded-full font-semibold hover:bg-emerald-700 transition">Media Sosial</a>
+            <a href="#kontak" class="bg-emerald-600 text-white px-5 py-2 rounded-full font-semibold hover:bg-emerald-700 transition">Kontak</a>
         </div>
     </nav>
 
@@ -105,6 +105,7 @@
     <footer class="bg-white py-12 px-4 border-t border-slate-100">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
             <div>
+            <section id="kontak" class="py-16 bg-slate-900 text-white rounded-t-[3rem]">
                 <p class="font-bold text-xl">Puskesmas Meral</p>
                 <p class="text-slate-500 text-sm">Sehat Bersama Kami.</p>
             </div>
