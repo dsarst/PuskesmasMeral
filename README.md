@@ -109,8 +109,11 @@
                 <p class="text-slate-500 text-sm">Sehat Bersama Kami.</p>
             </div>
             <div class="text-center md:text-right">
-                <p class="text-sm font-semibold">Jam Layanan Poli TB:</p>
-                <p class="text-emerald-600 font-bold">Senin - Sabtu | 08:00 - 12:00 WIB</p>
+                <p class="text-sm font-semibold">Jam Pendaftaran:</p>
+                <p class="text-emerald-600 font-bold">Senin - Kamis | 07:30 - 12:00 WIB</p>
+                <p class="text-emerald-600 font-bold">Jumat | 07:30 - 10:00 WIB</p>
+                <p class="text-emerald-600 font-bold">Sabtu | 07:30 - 11:00 WIB</p>
+                <p class="text-emerald-600 font-bold">Minggu/Libur | Tutup</p>
             </div>
         </div>
         <div class="text-center mt-10 text-slate-400 text-xs">
