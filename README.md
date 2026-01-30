@@ -20,7 +20,7 @@
                 </div>
                 <span class="font-bold text-xl tracking-tight">Puskesmas<span class="text-emerald-600">Meral</span></span>
             </div>
-            <a href="#medsos" class="bg-emerald-600 text-white px-5 py-2 rounded-full font-semibold hover:bg-emerald-700 transition">Media Sosial</a>
+            <a href="https://www.instagram.com/puskesmasmeral/" class="bg-emerald-600 text-white px-5 py-2 rounded-full font-semibold hover:bg-emerald-700 transition">Media Sosial</a>
         </div>
     </nav>
 
