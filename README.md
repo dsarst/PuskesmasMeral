@@ -111,8 +111,8 @@
             <div class="text-center md:text-right">
                 <p class="text-sm font-semibold">Jam Pendaftaran:</p>
                 <p class="text-emerald-600 font-bold">Senin - Kamis | 07:30 - 12:00 WIB</p>
-                <p class="text-emerald-600 font-bold">Jumat | 07:30 - 10:00 WIB</p>
-                <p class="text-emerald-600 font-bold">Sabtu | 07:30 - 11:00 WIB</p>
+                <p class="text-emerald-600 font-bold">Jumat   | 07:30 - 10:00 WIB</p>
+                <p class="text-emerald-600 font-bold">Sabtu   | 07:30 - 11:00 WIB</p>
                 <p class="text-emerald-600 font-bold">Minggu/Libur | Tutup</p>
             </div>
         </div>
