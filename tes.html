@@ -31,12 +31,12 @@
                 Batuk Tak Kunjung Sembuh? <br><span class="text-emerald-600">Jangan Dianggap Remeh.</span>
             </h1>
             <p class="mt-6 text-lg text-slate-600 leading-relaxed">
-                TBC bukan kutukan dan bisa sembuh total. Kami menyediakan pemeriksaan TCM dan pengobatan GRATIS sampai tuntas dengan kerahasiaan terjaga.
+                TBC bukan kutukan dan bisa sembuh total. Puskesmas menyediakan pemeriksaan TCM dan pengobatan GRATIS sampai tuntas dengan kerahasiaan terjaga.
             </p>
             <div class="mt-10 flex flex-col md:flex-row gap-4 justify-center">
                 <a href="#alur" class="bg-emerald-600 text-white px-8 py-4 rounded-xl font-bold shadow-lg shadow-emerald-200 hover:scale-105 transition-all">Cek Alur Pemeriksaan</a>
-                <a href="https://wa.me/123456789" class="bg-white border-2 border-slate-200 px-8 py-4 rounded-xl font-bold hover:bg-slate-50 transition-all flex items-center justify-center gap-2">
-                    <i class="fab fa-whatsapp text-green-500"></i> Konsultasi Dokter
+                <a href="https://youtube.com/shorts/j-1cIt5uhSQ?feature=share" class="bg-white border-2 border-slate-200 px-8 py-4 rounded-xl font-bold hover:bg-slate-50 transition-all flex items-center justify-center gap-2">
+                    <i class="fab fa-youtube text-green-500"></i> Video Edukasi TBC
                 </a>
             </div>
         </div>
